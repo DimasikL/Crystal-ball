@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="retos">
+        <item>Жди денег</item>
+        <item>Тебе п****</item>
+        <item>Будь осторожен</item>
+        <item>Потеряшь деньги</item>
+        <item>Любовь</item>
+        <item>Новое знакомство</item>
+        <item>Проспишь пары</item>
+        <item>Тебя найдут коллекторы</item>
+        <item>Не уснешь</item>
+        <item>Встретишь старого знакомого</item>
+        <item>Узнаешь хорошую новость</item>
+    </string-array>
+</resources>
